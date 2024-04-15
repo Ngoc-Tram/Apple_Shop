@@ -1,0 +1,17 @@
+header.row{
+    height: 400px;
+
+}
+nav.row{
+    /* height: 50px; */
+}
+main.row{
+    min-height: 600px;
+}
+footer.row{
+    height: 90px;
+}
+
+a{
+    text-decoration: none;
+}
